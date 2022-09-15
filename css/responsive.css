@@ -1,0 +1,28 @@
+@media (max-width: 600px){
+    .container {
+        width: 343px;
+        height: 600px;
+        flex-direction: column;
+    }
+
+    .container img{
+        height: 240px;
+        border-radius: 0;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    .container .info{
+        height: 375px;
+        padding: 35px;
+    }
+
+    .container .nome-produto{
+        padding-right: 5px;
+        line-height: 33px;
+    }
+
+    .container .btn-add-cart{
+        width: 273px;
+    }
+}
