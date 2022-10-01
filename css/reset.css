@@ -1,8 +1,6 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     text-decoration: none;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-    color: hsl(228, 12%, 48%);
 }
