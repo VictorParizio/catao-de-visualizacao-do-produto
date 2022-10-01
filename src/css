@@ -1,6 +1,0 @@
-html{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 62.5%;
-    font-weight: 500;
-    color: hsl(228, 12%, 48%);
-}
