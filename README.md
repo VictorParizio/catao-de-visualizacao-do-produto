@@ -4,27 +4,36 @@ Este projeto é uma solução para o desafio proposto pelo Frontend Mentor, foca
 
 Página de acesso do <a href="https://victorparizio.github.io/catao-de-visualizacao-do-produto/" target="_blank">projeto</a>.
 
-## Visão Geral
+## Sumário
+1. [Visão Geral](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#vis%C3%A3o-geral)
+2. [Recursos e Tecnologias Utilizadas](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#recursos-e-tecnologias-utilizadas)
+3. [Funcionalidades](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#funcionalidades)
+4. [Pré-Visualização](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#pr%C3%A9-visualiza%C3%A7%C3%A3o)
+5. [Estrutura do Projeto](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#estrutura-do-projeto)
+6. [Instruções de Uso](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#instru%C3%A7%C3%B5es-de-uso)
+7. [Conclusão](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#conclus%C3%A3o)
+
+## 1. Visão Geral
 
 O projeto consiste em criar um cartão de visualização de produto para um perfume chamado "Gabrielle Essence Eau De Parfum". O cartão deve exibir uma imagem do produto, seu nome, uma descrição, preços (com desconto e preço original) e um botão "Add to Cart" para adicionar o produto ao carrinho de compras.
 
-## Recursos e Tecnologias Utilizadas
+## 2. Recursos e Tecnologias Utilizadas
 
 - HTML5 e CSS3.
 - Fontes do Google: "Montserrat" e "Fraunces".
 
-## Funcionalidades
+## 3. Funcionalidades
 
 - Exibição da imagem do produto, com suporte a diferentes resoluções para dispositivos móveis e desktops.
 - Exibição do nome e descrição do produto.
 - Exibição dos preços com desconto e preço original.
 - Botão "Add to Cart" para adicionar o produto ao carrinho de compras.
 
-## Pré-Visualização
+## 4. Pré-Visualização
 
 ![Preview](src/images/preview.png)
 
-## Estrutura do Projeto
+## 5. Estrutura do Projeto
 
 - `index.html`: Este arquivo contém a estrutura HTML da página, incluindo as tags de imagem, texto e botão para criar o cartão de visualização do produto.
 - `src/`: Pasta que armazena os recursos do projeto.
@@ -35,7 +44,7 @@ O projeto consiste em criar um cartão de visualização de produto para um perf
     - `style.css`: Arquivo para estilos específicos do cartão de visualização do produto.
     - `responsive.css`: Arquivo para estilos responsivos que garantem a adaptação do cartão em diferentes tamanhos de tela.
 
-## Instruções de Uso
+## 6. Instruções de Uso
 
 Acesse a [página](https://victorparizio.github.io/catao-de-visualizacao-do-produto/) do projeto.
 
@@ -54,7 +63,7 @@ Acesse a [página](https://victorparizio.github.io/catao-de-visualizacao-do-prod
 
 3. Abra o arquivo `index.html` no seu navegador para visualizar o componente do cartão de visualização do produto.
 
-## Conclusão
+## 7. Conclusão
 
 Este projeto representa uma oportunidade de praticar habilidades de desenvolvimento frontend, incluindo a criação de layouts responsivos e a aplicação de estilos para aprimorar a aparência visual de um componente de página. Sinta-se à vontade para explorar, modificar e aprimorar este projeto de acordo com suas necessidades e aprendizado contínuo.
 
