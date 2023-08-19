@@ -2,7 +2,7 @@
 
 Este projeto é uma solução para o desafio proposto pelo Frontend Mentor, focado em aprimorar habilidades de desenvolvimento frontend. O objetivo do desafio era criar um componente de cartão de visualização de produto responsivo, utilizando HTML e CSS.
 
-Página de acesso do <a href='https://victorparizio.github.io/catao-de-visualizacao-do-produto/' target='_blank'>projeto</a>.
+Página de acesso do <a href="https://victorparizio.github.io/catao-de-visualizacao-do-produto/" target="_blank">projeto</a>.
 
 ## Visão Geral
 
