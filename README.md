@@ -2,6 +2,8 @@
 
 Este projeto é uma solução para o desafio proposto pelo Frontend Mentor, focado em aprimorar habilidades de desenvolvimento frontend. O objetivo do desafio era criar um componente de cartão de visualização de produto responsivo, utilizando HTML e CSS.
 
+Página de acesso do [projeto](https://victorparizio.github.io/catao-de-visualizacao-do-produto/).
+
 ## Visão Geral
 
 O projeto consiste em criar um cartão de visualização de produto para um perfume chamado "Gabrielle Essence Eau De Parfum". O cartão deve exibir uma imagem do produto, seu nome, uma descrição, preços (com desconto e preço original) e um botão "Add to Cart" para adicionar o produto ao carrinho de compras.
