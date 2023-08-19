@@ -5,13 +5,13 @@ Este projeto é uma solução para o desafio proposto pelo Frontend Mentor, foca
 Página de acesso do <a href="https://victorparizio.github.io/catao-de-visualizacao-do-produto/" target="_blank">projeto</a>.
 
 ## Sumário
-1. [Visão Geral](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#vis%C3%A3o-geral)
-2. [Recursos e Tecnologias Utilizadas](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#recursos-e-tecnologias-utilizadas)
-3. [Funcionalidades](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#funcionalidades)
-4. [Pré-Visualização](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#pr%C3%A9-visualiza%C3%A7%C3%A3o)
-5. [Estrutura do Projeto](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#estrutura-do-projeto)
-6. [Instruções de Uso](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#instru%C3%A7%C3%B5es-de-uso)
-7. [Conclusão](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#conclus%C3%A3o)
+1. [Visão Geral](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#1vis%C3%A3o-geral)
+2. [Recursos e Tecnologias Utilizadas](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#2recursos-e-tecnologias-utilizadas)
+3. [Funcionalidades](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#3funcionalidades)
+4. [Pré-Visualização](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#4pr%C3%A9-visualiza%C3%A7%C3%A3o)
+5. [Estrutura do Projeto](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#5estrutura-do-projeto)
+6. [Instruções de Uso](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#6instru%C3%A7%C3%B5es-de-uso)
+7. [Conclusão](https://github.com/VictorParizio/catao-de-visualizacao-do-produto#7conclus%C3%A3o)
 
 ## 1. Visão Geral
 
